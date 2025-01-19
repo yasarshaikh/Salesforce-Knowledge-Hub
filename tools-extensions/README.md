@@ -6,7 +6,7 @@ This section highlights useful tools, browser extensions, and third-party utilit
 
 ## Contents
 
-- [VS Code Extensions](./vscode-extensions.md): Recommended extensions for Salesforce development in VS Code.
-- [Browser Extensions](./browser-extensions.md): Extensions like Salesforce Inspector and how to use them effectively.
+- [VS Code Extensions](./vs-code-extensions.md): Recommended extensions for Salesforce development in VS Code.
+- [Browser Extensions](./browser-plugins.md): Extensions like Salesforce Inspector and how to use them effectively.
 
 ---
